@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrantGlover
 - 👀 I’m interested in Robotics and Apps
 - 🌱 I’m currently learning Python and C#
-- - 💞️ I’m looking to collaborate on ...
+- - 💞️ I’m looking to collaborate on anything that get me thinking.
 - 📫 How to reach me grant.glover@gmail.com
 
 <!---
